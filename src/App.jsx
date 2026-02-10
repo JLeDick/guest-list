@@ -114,7 +114,7 @@ export default function App() {
 /* 
 Teacher can skip this. This is reference material for my future assignments.
 
-useState() > .addEventListener()
+useEvent() > .addEventListener()
 
 Whenever I think;
 
