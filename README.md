@@ -1,5 +1,7 @@
 # Guest List
 
+**Leaving Reference Notes at Bottom of App.jsx - Use this project for future proj ref**
+
 ![One guest is highlighted in a list of guests.](example.png)
 
 The [Fullstack Convention Center](https://fsa-crud-2aa9294fe819.herokuapp.com/api/) has contracted you for yet another web application.
